@@ -1,6 +1,6 @@
 #inclue<stdio.h>
 void main() {
-   #enter the variables
+ int a,b,c;  #enter the variables
    #enter the numbers
    #write code for logic
    #print result
